@@ -11,4 +11,4 @@ recordsMaxCountWithSameProduct=20          # optional, default: '20'
 
 #### 2. Run app.Main
 #### 3. Input the config file path.
-#### 4. The output file path will be created in the working directory.
+#### 4. The output file will be created in the working directory.
